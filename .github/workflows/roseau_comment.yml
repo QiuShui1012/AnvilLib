@@ -56,7 +56,7 @@ jobs:
           MODULES=(
             codec collision config explosion font integration
             moveable-entity-block multiblock network recipe registrum
-            renderer rpc space-select sync util wheel main
+            rendering rpc space-select sync util wheel main
           )
 
           row() {
